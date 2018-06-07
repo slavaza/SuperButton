@@ -1,4 +1,4 @@
-# SupeButton
+# SuperButton
 
 Detects a single double and long press with the suppression of the bounce of the contacts. Does not require any additional resources of the microcontroller. Uses the system timer. Very easy to use.
 
